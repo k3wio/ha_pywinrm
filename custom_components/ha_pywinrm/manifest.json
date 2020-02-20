@@ -1,0 +1,13 @@
+{
+  "domain": "ha_pywinrm",
+  "name": "WinRM integration for Home Assistant",
+  "documentation": "https://github.com/k3wio/ha_pywinrm",
+  "dependencies": [],
+  "codeowners": [
+  	"@k3wio"
+  ],
+  "requirements": [
+  	"pywinrm==0.4.1"
+  ],
+  "homeassistant": "0.96.0"
+}

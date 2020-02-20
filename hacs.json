@@ -1,0 +1,7 @@
+{
+  "name": "WinRM integration for Home Assistant, using pywinrm",
+  "domains": ["switch"],
+  "homeassistant": "0.105.2",
+  "render_readme": true,
+  "content_in_root": false
+}
