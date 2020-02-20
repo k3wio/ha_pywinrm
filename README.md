@@ -2,7 +2,8 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-#WinRM integration for Home Assistant, using pywinrm
+
+WinRM integration for Home Assistant, using pywinrm
 
 ## Usage:
 
@@ -89,7 +90,8 @@ switch:
 
 ```
 
-Result:
+## Result:
+
 <img style="border: 5px solid #767676;border-radius: 10px;max-width: 350px;width: 100%;box-sizing: border-box;" src="https://github.com/k3wio/ha_pywinrm/blob/master/card.png?raw=true" alt="Card Example">
 
 ```
